@@ -38,6 +38,8 @@ git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-ipt
 #添加smartdns
 #git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
+
 #git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
 #git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 # Add luci-theme-argon
